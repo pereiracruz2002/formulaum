@@ -1,0 +1,14 @@
+<html>
+  <head>
+    <title>Equipes de Fórmula1</title>
+  </head>
+  <body>
+    <ul>
+      <li>Red Bull</li>
+      <li>McLaren</li>
+      <li>Ferrari</li>
+      <li>Mercedes</li>
+      <li>Force India</li>
+    </ul>
+  </body>
+</html>
